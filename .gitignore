@@ -1,0 +1,8 @@
+env
+venv
+*.pyc
+.DS_STORE
+htmlcov
+.coverage
+__pycache__
+/.idea
